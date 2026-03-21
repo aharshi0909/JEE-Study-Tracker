@@ -65,7 +65,6 @@ A high-performance, AI-powered study dashboard designed for serious JEE aspirant
 
 ## 🛡 Security & Resilience
 - **Auto-Recovery**: If any JSON data file is deleted, the backend automatically recreates it with default empty values.
-- **Zero Semicolons**: Clean, modern, "no-semicolon" code style throughout.
 - **Notification Support**: Built-in support for browser desktop notifications.
 
 Built for JEE aspirants who want to stop making excuses and start scoring. **No pain, no gain.**
